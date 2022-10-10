@@ -10,7 +10,7 @@ I could use this data types:
 2) String - for the description;
 3) Boollean - for the adjustable warm light(yes/no);
 4) Null - for the option ( like if it was chosen to put in the cart then to the empty finall summ we will add the price of the item);
-5) Undifined - if the company run out of this item;
+5) Undefined - if the company run out of this item;
 6) Object - to keep all of the information about certain computer( color, name, memory capacity e.t.c).
 
 ## Rubric
