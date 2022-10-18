@@ -3,6 +3,11 @@
 ## Instructions
 
 Create different functions, both functions that return something and functions that don't return anything.
+ALL OF THREE FUNCTIONS ARE HERE : 
+https://codepen.io/bahlai-julian/pen/JjvqXKZ 
+
+
+
 
 function printAnimal(animal, name){
   console.log(`Hi ${name}, your fav animal is ${animal}`);
