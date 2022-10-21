@@ -33,6 +33,11 @@ let allStudents = [
 let studentsWhoPass = [];
 ```
 
+
+
+My solution after 2 hours screaming inside:
+https://codepen.io/bahlai-julian/pen/rNvXMoa
+
 ## Rubric
 
 | Criteria | Exemplary                      | Adequate                      | Needs Improvement               |
